@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="Topsis-RaghavPahwa-102303608",
-    version="1.0.0",
+    version="1.0.2",
     author="Raghav Pahwa",
     author_email="rpahwa_be23@thapar.edu",
     description="A command-line implementation of TOPSIS",
