@@ -83,12 +83,12 @@ M5,225,16,16,2,1500,0.6124,2
 ### PyPI Package
 **Installation:**
 ```bash
-pip install topsis-raghav-102303608
+pip install Topsis-RaghavPahwa-102303608
 ```
-**Link:** [PyPI Package](https://pypi.org/project/topsis-raghav-102303608/)
+**Link:** [PyPI Package](https://pypi.org/project/Topsis-RaghavPahwa-102303608/)
 
 ### Streamlit Application
-**Link:** [Streamlit App](https://topsis-raghav.streamlit.app/)
+**Link:** [Streamlit App](https://topsis-raghavpahwa-102303608.streamlit.app/)
 
 ---
 
@@ -99,7 +99,7 @@ TOPSIS-Project/
 │
 ├── Part1/
 │   ├── topsis.py
-│   └── data.csv
+│   └── data.csv(sample file)
 │
 ├── Part2/
 │   ├── setup.py
@@ -116,10 +116,10 @@ TOPSIS-Project/
 ## 📸 Screenshots
 
 ### Command Line Interface
-![CLI Screenshot](screenshots/cli.png)
+![CLI Screenshot](Image\image.png)
 
 ### Streamlit Web Application
-![Streamlit Interface](screenshots/streamlit_app.png)
+![Streamlit Interface](Image\image.png)
 
 ---
 
