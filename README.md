@@ -117,10 +117,13 @@ TOPSIS-Project/
 
 ### Command Line Interface
 
+<img width="1232" height="131" alt="image" src="https://github.com/user-attachments/assets/626bcb77-bd6e-4bc6-9d13-2284712da733" />
 
 ### Streamlit Web Application
+<img width="1040" height="684" alt="website" src="https://github.com/user-attachments/assets/c16bc9d3-0927-4b21-b4ff-24e4a71e8871" />
 
 ---
+
 
 
 
