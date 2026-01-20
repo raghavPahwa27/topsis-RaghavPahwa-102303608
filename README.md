@@ -116,37 +116,13 @@ TOPSIS-Project/
 ## 📸 Screenshots
 
 ### Command Line Interface
-![CLI Screenshot](Image\image.png)
+
 
 ### Streamlit Web Application
-![Streamlit Interface](Image\image.png)
 
 ---
 
-## 🚀 Usage
 
-### Command Line
-```bash
-python topsis.py input.csv "0.25,0.25,0.25,0.15,0.10" "+,-,+,+,+" result.csv
-```
 
-### Python Package
-```python
-from topsis_raghav_102303608 import topsis
-topsis.calculate('input.csv', '0.25,0.25,0.25,0.15,0.10', '+,-,+,+,+', 'result.csv')
-```
-
-### Web Application
-```bash
-streamlit run app.py
-```
-
----
-
-## 📄 License
-
-MIT License
-
----
 
 **Raghav Pahwa** | Roll No: 102303608 | UCS654
